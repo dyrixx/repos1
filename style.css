@@ -1,23 +1,60 @@
-.one {
-    /* Your code start here */
+.one p {
+    color: blue;
  }
  
- .two {
-    /* Your code start here */
+ .red
+ {
+   color: red;
  }
- 
- .three {
-    /* Your code start here */
+
+ .yellow
+ {
+   color: yellow;
  }
- 
- .four {
-    /* Your code start here */
+
+ #hitam
+ {
+   color: black;
  }
- 
- .five {
-    /* Your code start here */
+
+ #blue
+ {
+   color: blue;
  }
- 
- .six {
-    /* Your code start here */
+
+ .text-bold
+ {
+   color: blue;
+   font-weight: bold;
+ }
+
+ .text-blue
+ {
+   color: blue;
+ }
+
+ .text-size-blue
+ {
+   font-size: 24px;
+   color: blue;
+ }
+
+ .five
+ {
+   color: blue;
+ }
+
+ .parent
+ {
+   color: yellow;
+ }
+
+ #hitam
+ {
+   color: black;
+ }
+
+ #container
+ {
+   color: yellow;
  }
